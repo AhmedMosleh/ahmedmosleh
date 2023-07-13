@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Mosleh!](https://www.linkedin.com/in/ahmedmmosleh/) 
+
 
 <p align="center">
 
@@ -11,10 +12,6 @@
 
 **"Ahmed Mostafa Mosleh"**
 
-<!--[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)-->
-<!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
-<!--[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev) -->
-<img src="https://komarev.com/ghpvc/?username=abdallahhemdan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmosleh" />
 
 <!--
 **AhmedMosleh/ahmedmosleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
