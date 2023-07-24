@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**"Ahmed Mostafa Mosleh"**
+<!-- **"Ahmed Mostafa Mosleh"** -->
 
 
 # Hey <img src="https://github.com/AhmedMosleh/ahmedmosleh/blob/main/wave.gif" width="40px" height="40px">, I'm [Mosleh!](https://www.linkedin.com/in/ahmedmmosleh/) 
