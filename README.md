@@ -1,56 +1,21 @@
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
-</p>
+# 💫 About Me:
+👋 Hi, I’m Ahmed Mosleh<br><br>👀 I’m interested in Embedded Software Engineering<br><br>🌱 I’m currently learning ARM Cortex M3/4 and RTOS
 
 
-<div align="center">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmed.mosleh.921677/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedmmosleh/) 
 
-<!-- **"Ahmed Mostafa Mosleh"** -->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedmosleh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmosleh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosleh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Hey <img src="https://github.com/AhmedMosleh/ahmedmosleh/blob/main/wave.gif" width="40px" height="40px">, I'm [Mosleh!](https://www.linkedin.com/in/ahmedmmosleh/) 
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedmosleh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<br/>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmedmmosleh/"><img align="left" alt="mosleh's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
-
-<a href="https://www.facebook.com/ahmed.mosleh.921677">
-  <img align="left" alt="mosleh's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
-</a>
-
-<a href="https://github.com/AhmedMosleh">
-  <img align="left" alt="mosleh's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
-</a>
-<a href="https://leetcode.com/user7852bF/">
-  <img align="left" alt="mosleh's leetcode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" draggable="false" />
-</a>
-<a href="ahmedmosleh.8888@gmail.com">
-  <img align="left" alt="mosleh's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
-</a>
-
-
-</div>
-
-<br />
-<br />
-
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-
-<!--
-**AhmedMosleh/ahmedmosleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
