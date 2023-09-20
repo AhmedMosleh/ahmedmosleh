@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmed Mosleh<br><br>👀 I’m interested in Embedded Software Engineering<br><br>🌱 I’m currently learning ARM Cortex M3/4 and RTOS
+👋 Hi, I’m Ahmed Mosleh<br><br>👀 I’m interested in Embedded Software Engineering<br><br>🌱 I’m currently learning ARM Cortex M3/4, RTOS, Embedded Linux
 
 
 ## 🌐 Socials:
